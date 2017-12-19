@@ -24,7 +24,7 @@ github_username:  AnanyaAppan
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-swiss
 plugins:
   - jekyll-feed
 
