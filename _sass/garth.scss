@@ -1,0 +1,60 @@
+@charset "utf-8";
+
+    
+.wrapper .sidebar{
+  background: black;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 180px;
+  height: 100%;
+  padding: 20px 0;
+  transition: all 0.5s ease;
+}
+
+.wrapper .sidebar .profile{
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.wrapper .sidebar .profile img{
+  display: block;
+  width: 120px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
+.wrapper .sidebar a {
+  display: block;
+  margin-left: 40%;
+}
+
+/* .wrapper .sidebar img {
+  margin-left: auto;
+  margin-right: auto;
+} */
+
+.wrapper .sidebar img:hover {
+  box-shadow: 0 0 2px 1px red;
+}
+
+.wrapper .sidebar .profile h3{
+  color: #ffffff;
+  margin: 10px 0 5px;
+}
+
+.wrapper .sidebar .profile p{
+  color: rgb(206, 240, 253);
+  font-size: 14px;
+}
+
+// Import frameworks & theme styles
+@import
+  "normalize",
+  "colors",
+  "sassline-base",
+  "syntax",
+  "flex",
+  "theme"
+;
