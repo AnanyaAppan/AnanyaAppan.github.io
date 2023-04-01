@@ -32,10 +32,11 @@ title: About
     </div>
 </div>
 
-<!-- <img style="float: right;" src="files/Ananya_Appan_Photo.jpeg" width="250" height="500"/> -->
-
 I am an Associate Developer at [SAP Labs](https://www.sap.com/india/about/labs-india.html), Bangalore. I graduated (offline!) from the International Institute of Information Technology, Bangalore ([IIITB](https://www.iiitb.ac.in/)) with an integrated mtech degree in computer science as part of the batch of 2022. I am extremely grateful to have finished my master's thesis under the supervision of Professor [Ashish Choudhury](https://sites.google.com/view/ashish-choudhury). 
 
 I am interested, broadly, in cryptography, and specifically, in secure multi-party computation. What I love the most about research is the absurd assurance I feel when I get the wrong solution, and the complete lack of expectation I have when I finally get the right one. Seeing the final draft of a paper I have co authored is also a very special feeling.
 
 At SAP Labs, I am in a customer facing role where I can see the global impact of what my team builds. I wish to get back to research and try to come up with solutions which have the potential to impact the way the world works. 
+
+**Announcements** <br>
+    - Professor Ashish Choudhury and Professor Arpita Patra release a book! - [Secure Multi-Party Computation Against Passive Adversaries](https://link.springer.com/book/10.1007/978-3-031-12164-7)
