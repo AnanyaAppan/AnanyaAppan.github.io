@@ -33,12 +33,12 @@ permalink: /research/
 </div>
 
 - Journal Publications
-    - Revisiting the Efficiency of Asynchronous Multi Party Computation Against General Adversaries <br>
-        Ananya Appan, Anirudh Chandramouli, Ashish Choudhury <br>
-        *IEEE Transactions on Information Theory, 2023*
-    - Perfectly-Secure Synchronous MPC with Asynchronous Fallback Guarantees <br>
-      Ananya Appan, Anirudh Chandramouli, Ashish Choudhury <br>
-      *Journal of Cryptology, 2023*
+    - [Revisiting the Efficiency of Asynchronous Multi Party Computation Against General Adversaries](https://link.springer.com/article/10.1007/s00145-023-09457-3) <br>
+    Ananya Appan, Anirudh Chandramouli, Ashish Choudhury <br>
+    *Journal of Cryptology, 2023*
+    - [Perfectly-Secure Synchronous MPC with Asynchronous Fallback Guarantees](https://ieeexplore.ieee.org/document/10092791) <br>
+    Ananya Appan, Anirudh Chandramouli, Ashish Choudhury <br>
+    *IEEE Transactions on Information Theory, 2023*
 
 - Conference Publications
     - [Revisiting the Efficiency of Asynchronous Multi Party Computation Against General Adversaries](https://arxiv.org/abs/2205.13169) <br>
@@ -51,6 +51,8 @@ permalink: /research/
       Talk: [TPMPC 2022](https://www.youtube.com/watch?v=HyIcT549kyw)
 
 - Preprints
+    - [Network Agnostic MPC with Statistical Security](https://arxiv.org/pdf/2306.01401.pdf) <br>
+      Ananya Appan, Ashish Choudhury
     - [Perfectly Secure Synchronous MPC with Asynchronous Fallback Guarantees Against General Adversaries](https://arxiv.org/abs/2208.06223) <br>
       Ananya Appan, Anirudh Chandramouli, Ashish Choudhury
 

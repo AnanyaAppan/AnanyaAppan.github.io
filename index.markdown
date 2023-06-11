@@ -36,7 +36,7 @@ I am an Associate Developer at [SAP Labs](https://www.sap.com/india/about/labs-i
 
 I am interested, broadly, in cryptography, and specifically, in secure multi-party computation. What I love the most about research is the absurd assurance I feel when I get the wrong solution, and the complete lack of expectation I have when I finally get the right one. Seeing the final draft of a paper I have co authored is also a very special feeling.
 
-At SAP Labs, I am in a customer facing role where I can see the global impact of what my team builds. I wish to get back to research and try to come up with solutions which have the potential to impact the way the world works. 
 
 **Announcements** <br>
+    - I will be joining the University of Illinois at Urbana Champaign as a PhD student this August. Not sure what to expect, but excited to be meeting new people there :) <br>
     - Professor Ashish Choudhury and Professor Arpita Patra release a book! - [Secure Multi-Party Computation Against Passive Adversaries](https://link.springer.com/book/10.1007/978-3-031-12164-7)
