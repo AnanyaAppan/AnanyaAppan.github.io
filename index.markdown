@@ -32,11 +32,10 @@ title: About
     </div>
 </div>
 
-I am an Associate Developer at [SAP Labs](https://www.sap.com/india/about/labs-india.html), Bangalore. I graduated (offline!) from the International Institute of Information Technology, Bangalore ([IIITB](https://www.iiitb.ac.in/)) with an integrated mtech degree in computer science as part of the batch of 2022. I am extremely grateful to have finished my master's thesis under the supervision of Professor [Ashish Choudhury](https://sites.google.com/view/ashish-choudhury). 
+I am an incoming computer science PhD student at the University of Illinois at Urbana Champaign. I graduated (offline!) from the International Institute of Information Technology, Bangalore ([IIITB](https://www.iiitb.ac.in/)) with an integrated mtech degree in computer science as part of the batch of 2022. I am extremely grateful to have finished my master's thesis under the supervision of Professor [Ashish Choudhury](https://sites.google.com/view/ashish-choudhury). 
 
-I am interested, broadly, in cryptography, and specifically, in secure multi-party computation. What I love the most about research is the absurd assurance I feel when I get the wrong solution, and the complete lack of expectation I have when I finally get the right one. Seeing the final draft of a paper I have co authored is also a very special feeling.
+I am interested, broadly, in cryptography, and specifically, in secure multi-party computation. What I love the most about research is the absurd assurance I feel when I get the wrong solution, and the complete lack of expectation I have when I finally get the right one :) Seeing the final draft of a paper I have co authored is also a very special feeling.
 
 
 **Announcements** <br>
-    - I will be joining the University of Illinois at Urbana Champaign as a PhD student this August. Not sure what to expect, but excited to be meeting new people there :) <br>
     - Professor Ashish Choudhury and Professor Arpita Patra release a book! - [Secure Multi-Party Computation Against Passive Adversaries](https://link.springer.com/book/10.1007/978-3-031-12164-7)

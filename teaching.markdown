@@ -38,7 +38,7 @@ permalink: /teaching/
     - **Data Structures and Algorithms** : Mar 2021 - Jul 2021
     - **Programming II (C++ and Java)** : Aug 2020 - Jul 2020
 
-- [NPTEL](https://nptel.ac.in/) : At NPTEL, as part of being a teaching assistant for the following courses, I enjoyed coming up with questions of varied difficulty for assignments and quizzes.
+- [NPTEL](https://nptel.ac.in/) : At NPTEL, as part of being a teaching assistant for the following MOOCs, I enjoyed coming up with questions of varied difficulty for assignments and quizzes.
     - **[Secure Computation (Part II)](https://onlinecourses.nptel.ac.in/noc22_cs113/preview)** : Jul 2022 - Nov 2022
     - **[Discrete Mathematics](https://nptel.ac.in/courses/106108227)** : Jan 2022 - Apr 2022
     - **[Foundations of Cryptography](https://onlinecourses.nptel.ac.in/noc20_cs02/preview)** : Jan 2022 - Apr 2022
