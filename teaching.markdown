@@ -8,13 +8,8 @@ permalink: /teaching/
     <!--Top menu -->
     <div class="sidebar">
     <div class="profile">
-        <img src="../files/Ananya_Appan_Photo.jpeg" alt="profile_picture">
+        <img src="../files/anu_recent.jpeg" alt="profile_picture">
         <h3>Ananya Appan</h3>
-        <p>
-        311B, 60 Feet Road,<br>
-        CQAL Layout, Sahakarnagar,<br>
-        Bangalore-560092
-        </p>
     </div>
     <a href = "mailto: ananya.appan@gmail.com">
         <img src="../files/gmail.png" width="35" height="35">
@@ -31,6 +26,7 @@ permalink: /teaching/
         <!--menu item-->
     </div>
 </div>
+
 
 - IIIT Bangalore : At IIIT Bangalore, I was a teaching assistant for the following courses. Due to the pandemic, I could only do this online. Despite this, it was especially invigorating to teach the younger students! <br>
     - **Foundations of Cryptography** : Jan 2022 - May 2022

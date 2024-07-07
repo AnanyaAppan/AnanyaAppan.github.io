@@ -8,13 +8,8 @@ title: About
     <!--Top menu -->
     <div class="sidebar">
     <div class="profile">
-        <img src="files/Ananya_Appan_Photo.jpeg" alt="profile_picture">
+        <img src="../files/anu_recent.jpeg" alt="profile_picture">
         <h3>Ananya Appan</h3>
-        <p>
-        311B, 60 Feet Road,<br>
-        CQAL Layout, Sahakarnagar,<br>
-        Bangalore-560092
-        </p>
     </div>
     <a href = "mailto: ananya.appan@gmail.com">
         <img src="../files/gmail.png" width="35" height="35">
@@ -32,9 +27,9 @@ title: About
     </div>
 </div>
 
-I am an incoming computer science PhD student at the University of Illinois at Urbana Champaign. I graduated (offline!) from the International Institute of Information Technology, Bangalore ([IIITB](https://www.iiitb.ac.in/)) with an integrated mtech degree in computer science as part of the batch of 2022. I am extremely grateful to have finished my master's thesis under the supervision of Professor [Ashish Choudhury](https://sites.google.com/view/ashish-choudhury). 
+I am an almost second year PhD candidate at the University of Illinois at Urbana Champaign. I am interested, broadly, in cryptography, and specifically, in secure multi-party computation. I am lucky to have two kind and caring co-advisors : [David Heath](https://daheath.web.illinois.edu) and [Ling Ren](https://sites.google.com/view/renling). I was previously advised by Professor [Ashish Choudhury](https://sites.google.com/view/ashish-choudhury) at IIIT Bangalore, to whom I am ever grateful for introducing me to cryptography and research.
 
-I am interested, broadly, in cryptography, and specifically, in secure multi-party computation. What I love the most about research is the absurd assurance I feel when I get the wrong solution, and the complete lack of expectation I have when I finally get the right one :) Seeing the final draft of a paper I have co authored is also a very special feeling.
+What I love the most about research is the absurd assurance I feel when I get the wrong solution, and the complete lack of expectation I have when I finally get the right one :) Seeing the final draft of a paper I have co authored is also a very special feeling.
 
 
 **Announcements** <br>
