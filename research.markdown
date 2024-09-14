@@ -37,6 +37,9 @@ permalink: /research/
     *IEEE Transactions on Information Theory, 2023*
 
 - Conference Publications
+    - [Oblivious Single Access Machines: A New model for Oblivious Computation](https://eprint.iacr.org/2024/1029.pdf) <br>
+      Ananya Appan, David Heath, Ling Ren <br>
+      *CCS 2024* <br>
     - [Network Agnostic MPC with Statistical Security](https://arxiv.org/pdf/2306.01401.pdf) <br>
       Ananya Appan, Ashish Choudhury <br>
       *TCC 2023* <br>
@@ -51,9 +54,3 @@ permalink: /research/
       Ananya Appan, Anirudh Chandramouli, Ashish Choudhury <br>
       *PODC 2022* <br>
       Talk: [TPMPC 2022](https://www.youtube.com/watch?v=HyIcT549kyw)
-
-- Preprints
-    - [Oblivious Single Access Machines: A New model for Oblivious Computation](https://eprint.iacr.org/2024/1029.pdf) <br>
-      Ananya Appan, David Heath, Ling Ren
-    
-

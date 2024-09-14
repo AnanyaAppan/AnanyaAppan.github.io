@@ -27,7 +27,7 @@ title: About
     </div>
 </div>
 
-I am an almost second year PhD candidate at the University of Illinois at Urbana Champaign. I am interested, broadly, in cryptography, and specifically, in secure multi-party computation. I am lucky to have two kind and caring co-advisors : [David Heath](https://daheath.web.illinois.edu) and [Ling Ren](https://sites.google.com/view/renling). I was previously advised by Professor [Ashish Choudhury](https://sites.google.com/view/ashish-choudhury) at IIIT Bangalore, to whom I am ever grateful for introducing me to cryptography and research.
+I am a second year PhD student at the University of Illinois at Urbana Champaign. I am interested, broadly, in cryptography, and specifically, in secure multi-party computation. I am lucky to have two kind and caring co-advisors : [David Heath](https://daheath.web.illinois.edu) and [Ling Ren](https://sites.google.com/view/renling). I was previously advised by Professor [Ashish Choudhury](https://sites.google.com/view/ashish-choudhury) at IIIT Bangalore, to whom I am ever grateful for introducing me to cryptography and research.
 
 What I love the most about research is the absurd assurance I feel when I get the wrong solution, and the complete lack of expectation I have when I finally get the right one :) Seeing the final draft of a paper I have co authored is also a very special feeling.
 
