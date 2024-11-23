@@ -40,6 +40,7 @@ permalink: /research/
     - [Oblivious Single Access Machines: A New model for Oblivious Computation](https://eprint.iacr.org/2024/1029.pdf) <br>
       Ananya Appan, David Heath, Ling Ren <br>
       *CCS 2024* <br>
+      [Slides](../files/OSAM-full.pptx) <br>
     - [Network Agnostic MPC with Statistical Security](https://arxiv.org/pdf/2306.01401.pdf) <br>
       Ananya Appan, Ashish Choudhury <br>
       *TCC 2023* <br>
