@@ -37,6 +37,9 @@ permalink: /research/
     *IEEE Transactions on Information Theory, 2023*
 
 - Conference Publications
+    - [Verifiable Secret Sharing, Randomized Agreement, and Multi-Party Computation in Granular Synchrony](https://eprint.iacr.org/2025/1327) <br>
+      Ananya Appan, David Heath, Ling Ren <br>
+      *ASIACRYPT 2025* <br>
     - [Oblivious Single Access Machines: A New model for Oblivious Computation](https://eprint.iacr.org/2024/1029.pdf) <br>
       Ananya Appan, David Heath, Ling Ren <br>
       *CCS 2024* <br>
@@ -55,3 +58,7 @@ permalink: /research/
       Ananya Appan, Anirudh Chandramouli, Ashish Choudhury <br>
       *PODC 2022* <br>
       Talk: [TPMPC 2022](https://www.youtube.com/watch?v=HyIcT549kyw)
+
+- Unpublished Manuscripts
+    - [Obliivious Immutable Memory](https://eprint.iacr.org/2025/593) <br>
+      Ananya Appan, David Heath<br>
