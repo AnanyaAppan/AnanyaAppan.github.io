@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title and page.url != '/' %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  {% comment %}
+    Corner ornaments. A page can set `ornament_corners` (list) and `ornament` (file in /files/) in its
+    front matter; otherwise corners alternate by nav position (even = top-right + bottom-left, odd = top-left + bottom-right).
+  {% endcomment %}
+  {% assign corners = "top-right bottom-left" | split: " " %}
+  {% for item in site.nav %}
+    {% if item.url == page.url %}{% assign odd = forloop.index0 | modulo: 2 %}{% if odd == 1 %}{% assign corners = "top-left bottom-right" | split: " " %}{% endif %}{% endif %}
+  {% endfor %}
+  {% if page.ornament_corners %}{% assign corners = page.ornament_corners %}{% endif %}
+  {% assign ornament = page.ornament | default: "corner.svg" %}
+  {% for c in corners %}<img class="corner-ornament {{ c }}" src="{{ '/files/' | append: ornament | relative_url }}" alt="" aria-hidden="true">
+  {% endfor %}
+  {% include header.html %}
+  <main class="container">
+    {{ content }}
+  </main>
+  {% include footer.html %}
+</body>
+</html>

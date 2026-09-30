@@ -1,0 +1,91 @@
+# Newest first within each type. type: journal | conference | manuscript
+# Your name is bolded automatically wherever it matches author.name in _config.yml.
+
+- title: "Efficient Private Range Queries on Public Data"
+  url: https://eprint.iacr.org/2026/429
+  authors: "Pranav Shriram Arunachalaramanan, Ananya Appan, David Heath, Ling Ren"
+  venue: "IEEE S&P 2027"
+  type: conference
+
+- title: "Verifiable Secret Sharing, Randomized Agreement, and Multi-Party Computation in Granular Synchrony"
+  url: https://eprint.iacr.org/2025/1327
+  authors: "Ananya Appan, David Heath, Ling Ren"
+  venue: "ASIACRYPT 2025"
+  type: conference
+
+- title: "Oblivious Single Access Machines: A New Model for Oblivious Computation"
+  url: https://eprint.iacr.org/2024/1029.pdf
+  authors: "Ananya Appan, David Heath, Ling Ren"
+  venue: "CCS 2024"
+  type: conference
+  links:
+    - name: Slides
+      url: /files/OSAM-full.pptx
+
+- title: "Network Agnostic MPC with Statistical Security"
+  url: https://arxiv.org/pdf/2306.01401.pdf
+  authors: "Ananya Appan, Ashish Choudhury"
+  venue: "TCC 2023"
+  type: conference
+
+- title: "Perfectly Secure Synchronous MPC with Asynchronous Fallback Guarantees Against General Adversaries"
+  url: https://arxiv.org/abs/2208.06223
+  authors: "Ananya Appan, Anirudh Chandramouli, Ashish Choudhury"
+  venue: "DISC 2023"
+  type: conference
+
+- title: "Revisiting the Efficiency of Asynchronous Multi Party Computation Against General Adversaries"
+  url: https://arxiv.org/abs/2205.13169
+  authors: "Ananya Appan, Anirudh Chandramouli, Ashish Choudhury"
+  venue: "INDOCRYPT 2022"
+  type: conference
+  links:
+    - name: "Talk: Bengaluru Crypto Day, Spring 2023"
+      url: https://events.csa.iisc.ac.in/bcd02/
+
+- title: "Perfectly-Secure Synchronous MPC with Asynchronous Fallback Guarantees"
+  url: https://arxiv.org/pdf/2201.12194.pdf
+  authors: "Ananya Appan, Anirudh Chandramouli, Ashish Choudhury"
+  venue: "PODC 2022"
+  type: conference
+  links:
+    - name: "Talk: TPMPC 2022"
+      url: https://www.youtube.com/watch?v=HyIcT549kyw
+
+- title: "Consensus in Multi Party Computation"
+  url: https://link.springer.com/article/10.1007/s41745-026-00507-w
+  authors: "Ananya Appan, David Heath, Ling Ren"
+  venue: "Journal of the Indian Institute of Science, 2026"
+  type: journal
+
+- title: "Revisiting the Efficiency of Asynchronous Multi Party Computation Against General Adversaries"
+  url: https://link.springer.com/article/10.1007/s00145-023-09457-3
+  authors: "Ananya Appan, Anirudh Chandramouli, Ashish Choudhury"
+  venue: "Journal of Cryptology, 2023"
+  type: journal
+
+- title: "Perfectly-Secure Synchronous MPC with Asynchronous Fallback Guarantees"
+  url: https://ieeexplore.ieee.org/document/10092791
+  authors: "Ananya Appan, Anirudh Chandramouli, Ashish Choudhury"
+  venue: "IEEE Transactions on Information Theory, 2023"
+  type: journal
+
+- title: "Write-Public Oblivious RAM and Its Applications"
+  url: https://eprint.iacr.org/2026/2163
+  authors: "Ananya Appan, James Austgen, Kushal Babel, Sourav Das"
+  type: manuscript
+
+- title: "Revisiting Malicious Private Aggregation: Formalization, Weaknesses, and Enhancements"
+  url: https://eprint.iacr.org/2026/2074
+  authors: "Ananya Appan, Pranav Shriram Arunachalaramanan, David Heath, Ling Ren"
+  type: manuscript
+
+- title: "Asynchronous MPC with Abort"
+  url: https://eprint.iacr.org/2026/455
+  authors: "Ananya Appan, David Heath, Ling Ren"
+  type: manuscript
+
+- title: "Oblivious Immutable Memory"
+  url: https://eprint.iacr.org/2025/593
+  authors: "Ananya Appan, David Heath"
+  type: manuscript
