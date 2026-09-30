@@ -85,6 +85,11 @@
   authors: "Ananya Appan, David Heath, Ling Ren"
   type: manuscript
 
+- title: "Oblivious Single Access Machines are Concretely Efficient"
+  url: https://eprint.iacr.org/2026/451.pdf
+  authors: "Sage Pia, Ananya Appan, Maryam Rezapour, Amey Shukla, Nikhil Date, Benjamin Fuller, Ling Ren, David Heath"
+  type: manuscript
+
 - title: "Oblivious Immutable Memory"
   url: https://eprint.iacr.org/2025/593
   authors: "Ananya Appan, David Heath"
