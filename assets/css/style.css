@@ -85,3 +85,7 @@ body { position: relative; min-height: 100vh; }
 .corner-ornament.bottom-left  { bottom: 0; left: 0;  transform: scale(-1, -1); }
 @media (max-width: 900px) { .corner-ornament { width: 120px; height: 120px; opacity: .35; } }
 @media (prefers-color-scheme: dark) { .corner-ornament { opacity: .35; } }
+
+/* Homepage weasel, sitting in the bottom-right corner */
+.weasel { position: absolute; bottom: 0; right: 1.5rem; width: 110px; height: auto; pointer-events: none; }
+@media (max-width: 900px) { .weasel { width: 70px; right: .5rem; } }

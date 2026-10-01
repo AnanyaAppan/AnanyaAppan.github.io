@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+weasel: true
 ---
 <section class="profile">
   <img class="avatar" src="{{ site.author.photo | relative_url }}" alt="{{ site.author.name }}">

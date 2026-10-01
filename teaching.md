@@ -3,6 +3,7 @@ layout: page
 title: Teaching
 ornament: corner-teaching.svg
 ornament_corners: [top-right]
+weasel: true
 permalink: /teaching/
 ---
 

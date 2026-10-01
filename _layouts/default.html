@@ -20,6 +20,7 @@
   {% assign ornament = page.ornament | default: "corner.svg" %}
   {% for c in corners %}<img class="corner-ornament {{ c }}" src="{{ '/files/' | append: ornament | relative_url }}" alt="" aria-hidden="true">
   {% endfor %}
+  {% if page.weasel %}<img class="weasel" src="{{ '/files/weasel.svg' | relative_url }}" alt="A weasel wearing sunglasses">{% endif %}
   {% include header.html %}
   <main class="container">
     {{ content }}

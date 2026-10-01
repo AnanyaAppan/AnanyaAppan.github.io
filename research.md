@@ -3,6 +3,7 @@ layout: page
 title: Research
 ornament: corner-research.svg
 ornament_corners: [top-left]
+weasel: true
 permalink: /research/
 ---
 {% assign sections = "conference:Conference Publications,journal:Journal Publications,manuscript:Manuscripts" | split: "," %}

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 200" role="img" aria-label="A weasel wearing sunglasses">
+  <!-- tail -->
+  <path d="M100 178 C135 178 150 150 140 120 C135 105 122 108 126 122 C132 145 122 162 100 164 Z" fill="#8a5a36"/>
+  <path d="M138 116 C134 104 123 106 125 118 C130 116 135 115 138 116 Z" fill="#3b2617"/>
+  <!-- body -->
+  <path d="M52 190 C44 150 48 110 62 88 L98 88 C112 110 116 150 108 190 Z" fill="#8a5a36"/>
+  <!-- belly -->
+  <path d="M66 190 C60 155 63 118 72 96 L88 96 C97 118 100 155 94 190 Z" fill="#f3e3c7"/>
+  <!-- paws -->
+  <ellipse cx="70" cy="130" rx="8" ry="6" fill="#7a4e2e"/>
+  <ellipse cx="90" cy="130" rx="8" ry="6" fill="#7a4e2e"/>
+  <ellipse cx="62" cy="190" rx="13" ry="6" fill="#7a4e2e"/>
+  <ellipse cx="98" cy="190" rx="13" ry="6" fill="#7a4e2e"/>
+  <!-- ears -->
+  <circle cx="54" cy="44" r="11" fill="#8a5a36"/>
+  <circle cx="106" cy="44" r="11" fill="#8a5a36"/>
+  <circle cx="54" cy="44" r="6" fill="#e8b9a0"/>
+  <circle cx="106" cy="44" r="6" fill="#e8b9a0"/>
+  <!-- head -->
+  <ellipse cx="80" cy="64" rx="32" ry="28" fill="#8a5a36"/>
+  <!-- muzzle -->
+  <ellipse cx="80" cy="78" rx="18" ry="13" fill="#f3e3c7"/>
+  <ellipse cx="80" cy="71" rx="5" ry="3.5" fill="#2a1a10"/>
+  <path d="M74 82 Q80 87 86 82" stroke="#2a1a10" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- whiskers -->
+  <g stroke="#2a1a10" stroke-width="1.2" stroke-linecap="round" opacity=".6">
+    <line x1="64" y1="76" x2="46" y2="72"/><line x1="64" y1="80" x2="46" y2="82"/>
+    <line x1="96" y1="76" x2="114" y2="72"/><line x1="96" y1="80" x2="114" y2="82"/>
+  </g>
+  <!-- sunglasses -->
+  <g>
+    <line x1="49" y1="56" x2="111" y2="56" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+    <path d="M52 55 H77 V60 C77 68 72 71 64 71 C56 71 52 66 52 60 Z" fill="#111"/>
+    <path d="M83 55 H108 V60 C108 66 104 71 96 71 C88 71 83 68 83 60 Z" fill="#111"/>
+    <path d="M56 58 L63 58" stroke="#fff" stroke-width="2" stroke-linecap="round" opacity=".7"/>
+    <path d="M87 58 L94 58" stroke="#fff" stroke-width="2" stroke-linecap="round" opacity=".7"/>
+  </g>
+</svg>
